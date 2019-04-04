@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [NumberMonthConverter.cs](./CS/App_Code/NumberMonthConverter.cs) (VB: [NumberMonthConverter.vb](./VB/App_Code/NumberMonthConverter.vb))
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to filter dates by month

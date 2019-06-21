@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to filter dates by month
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t283938/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to add a custom filter to a DateTime column to filter dates by month. The example provides two ways of filtering the column: by the header filter and by the filter row.</p>
